@@ -1,4 +1,4 @@
-<h2 align="center">Hi I'm Raj! <br></h2>
+<h2 style = "color: blue;" align="center">Hi I'm Raj! </h2>
 
 ###
 
